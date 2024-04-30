@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/k1ngpavit.github.io/static/css/main.bfde034a.css",
-    "main.js": "/k1ngpavit.github.io/static/js/main.d2b5e36e.js",
-    "static/js/453.1f90afa6.chunk.js": "/k1ngpavit.github.io/static/js/453.1f90afa6.chunk.js",
+    "main.js": "/k1ngpavit.github.io/static/js/main.606de9d6.js",
+    "static/js/453.ebdfa216.chunk.js": "/k1ngpavit.github.io/static/js/453.ebdfa216.chunk.js",
     "static/media/logo.svg": "/k1ngpavit.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/k1ngpavit.github.io/index.html",
     "main.bfde034a.css.map": "/k1ngpavit.github.io/static/css/main.bfde034a.css.map",
-    "main.d2b5e36e.js.map": "/k1ngpavit.github.io/static/js/main.d2b5e36e.js.map",
-    "453.1f90afa6.chunk.js.map": "/k1ngpavit.github.io/static/js/453.1f90afa6.chunk.js.map"
+    "main.606de9d6.js.map": "/k1ngpavit.github.io/static/js/main.606de9d6.js.map",
+    "453.ebdfa216.chunk.js.map": "/k1ngpavit.github.io/static/js/453.ebdfa216.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfde034a.css",
-    "static/js/main.d2b5e36e.js"
+    "static/js/main.606de9d6.js"
   ]
 }
