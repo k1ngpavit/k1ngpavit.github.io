@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/k1ngpavit.github.io/static/css/main.bfde034a.css",
-    "main.js": "/k1ngpavit.github.io/static/js/main.606de9d6.js",
+    "main.js": "/k1ngpavit.github.io/static/js/main.19370416.js",
     "static/js/453.ebdfa216.chunk.js": "/k1ngpavit.github.io/static/js/453.ebdfa216.chunk.js",
     "static/media/logo.svg": "/k1ngpavit.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/k1ngpavit.github.io/index.html",
     "main.bfde034a.css.map": "/k1ngpavit.github.io/static/css/main.bfde034a.css.map",
-    "main.606de9d6.js.map": "/k1ngpavit.github.io/static/js/main.606de9d6.js.map",
+    "main.19370416.js.map": "/k1ngpavit.github.io/static/js/main.19370416.js.map",
     "453.ebdfa216.chunk.js.map": "/k1ngpavit.github.io/static/js/453.ebdfa216.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfde034a.css",
-    "static/js/main.606de9d6.js"
+    "static/js/main.19370416.js"
   ]
 }
